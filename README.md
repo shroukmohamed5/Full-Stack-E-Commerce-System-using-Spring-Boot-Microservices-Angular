@@ -35,7 +35,7 @@ The technologies used in this project are:
 
 
 ## Application Architecture:
-The system follows a microservices-based architecture with the following components and communication flows:
+** The system follows a microservices-based architecture with the following components and communication flows:
 
 - Frontend (Angular):
 The user interacts with the system through an Angular-based frontend UI. This frontend communicates exclusively with the backend via the API Gateway.
@@ -66,9 +66,9 @@ Listens to Kafka events and sends notifications (email messages). This service i
 
 - Databases:
 
- MongoDB is used by the Product Service.
+   MongoDB is used by the Product Service.
 
- MySQL is used by both Order and Inventory Services.
+   MySQL is used by both Order and Inventory Services.
 
 - Kafka:
 Used for asynchronous messaging between services, especially between Order Service and Notification Service.
