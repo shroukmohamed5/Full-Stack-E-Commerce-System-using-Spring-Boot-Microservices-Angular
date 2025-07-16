@@ -66,9 +66,9 @@ Listens to Kafka events and sends notifications (email messages). This service i
 
 - Databases:
 
-MongoDB is used by the Product Service.
+ MongoDB is used by the Product Service.
 
-MySQL is used by both Order and Inventory Services.
+ MySQL is used by both Order and Inventory Services.
 
 - Kafka:
 Used for asynchronous messaging between services, especially between Order Service and Notification Service.
