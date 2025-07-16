@@ -78,15 +78,15 @@ Implemented for service-to-service reliability, such as timeouts, retries, and c
 
 - Observability Stack:
 
-OpenTelemetry
+-  OpenTelemetry
 
-Prometheus
+-  Prometheus
 
-Grafana Loki
+-  Grafana Loki
 
-Grafana Tempo
+-  Grafana Tempo
 
-Grafana Dashboard
+-  Grafana Dashboard
 These tools provide metrics, logs, and tracing data for monitoring the system health.
 
 - Kubernetes:
