@@ -35,7 +35,7 @@ The technologies used in this project are:
 
 
 ## Application Architecture:
-** The system follows a microservices-based architecture with the following components and communication flows:
+  The system follows a microservices-based architecture with the following components and communication flows:
 
 - Frontend (Angular):
 The user interacts with the system through an Angular-based frontend UI. This frontend communicates exclusively with the backend via the API Gateway.
